@@ -1,0 +1,61 @@
+.button{
+	border: 1px solid #000;
+	margin: 10px;
+	background-color: #8fbc8f;
+	color: black;
+	border-radius: 5%;
+	min-width:200px;
+	text-decoration: none;
+	display: inline-block;
+	padding: 8px 16px;	
+}
+
+.tg{
+	border-collapse: collapse;
+	border-color: #aaa;
+	border-spacing:0;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+.tg td {
+	background-color: #dfecdf;
+	border-color: #aaa;
+	border-style: solid;
+	border-width: 1px;
+	color: #333;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	overflow: hidden;
+	padding:10px 5px;
+	word-break: normal;	
+}
+.tg th {
+	background-color: #8fbc8f;
+	border-color: #aaa;
+	border-style: solid;
+	border-width: 1px;
+	color: #ffffff;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	overflow: hidden;
+	padding:10px 5px;
+	word-break: normal;
+	min-width: 250px;	
+}
+.tg .tg-general{
+	text-align: left; 
+	vertical-align: top;
+}
+.previous{
+	border: 1px solid #000;
+	margin: 10px;
+	background-color: #8fbc8f;
+	color: black;
+	border-radius: 5%;
+	text-decoration: none;
+	display: inline-block;
+	padding: 8px 16px;
+	
+	
+}
